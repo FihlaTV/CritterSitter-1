@@ -2,8 +2,8 @@
   "development": {
 
     "username": "root",
-    "password": "1234",
-    "database": "critter_users",
+    "password": "minderzone1023",
+    "database": "critter_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
